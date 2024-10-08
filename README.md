@@ -1,4 +1,4 @@
-__Starting with version 0.1.0, we switched to the `main` branch. This branch only remains for legacy reasons.__
+__This repository is deprecated and will be archived. It remains for legacy reasons. For the current development, please look at the forked repository.__
 
 # Commit-Based Continuous Integration of architectural Performance Models
 
